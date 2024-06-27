@@ -11,15 +11,20 @@ I'm experienced digital marketer and SEO specialist with over 3+ years of experi
 
 ### SQL Expertise-
 Basic Syntax: Familiar with SQL syntax for data retrieval, manipulation, and analysis.
+
 Advanced Techniques: Experienced in joins, subqueries, aggregation, filtering, sorting, window functions, transformation, validation, cleaning, and performance optimization.
+
 Stored Procedures and Functions: Proficient in writing and optimizing stored procedures and user-defined functions.
+
 Database Design: Skilled in designing efficient database schemas, including working with views and indexes.
-Platforms and Practice: Earned a 5-star ranking on HackerRank for SQL and a Badge from LeetCode. Extensively practiced on platforms like LeetCode, W3Schools, SQLBolt, SQLZoo, DataLemur, and HackerRank. Additionally, worked on personal projects using SQL, drawing meaningful insights from data.
+
 
 
 ### Tableau- 
 Visualization and Analysis: Hands-on experience in data cleaning, visualization, ETL, and dashboard creation using Tableau
+
 Calculated Fields and Parameters:Utilize calculated fields for custom calculations and aggregations.
+
 Advanced Analytics:Apply advanced analytical techniques such as trend lines, reference lines, and forecasting
 
 
@@ -28,7 +33,9 @@ Data Analysis and Visualization: Familiar with various Excel functionalities, in
 
 ### Python
 Data Analysis and Manipulation: Proficient in using pandas,numpy for data manipulation and analysis tasks.
+
 Regular Expressions: Experience with data wrangling using regular expressions.
+
 Matplotlip,Seaborn : For visualization
 
 
