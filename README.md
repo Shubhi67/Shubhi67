@@ -34,3 +34,6 @@ RFM Data Analysis
 Credit Card Complaints
 Bank Loan Analysis
 SQL Music Store Analysis
+
+
+This repository contains a collection of my projects, including personal and professional endeavors. Each project demonstrates my skills and expertise in data analysis, visualization, and database management.
