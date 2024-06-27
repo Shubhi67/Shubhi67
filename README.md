@@ -10,33 +10,33 @@ I'm experienced digital marketer and SEO specialist with over 3+ years of experi
 
 
 ### SQL Expertise-
-Basic Syntax: Familiar with SQL syntax for data retrieval, manipulation, and analysis.
+**Basic Syntax**: Familiar with SQL syntax for data retrieval, manipulation, and analysis.
 
-Advanced Techniques: Experienced in joins, subqueries, aggregation, filtering, sorting, window functions, transformation, validation, cleaning, and performance optimization.
+**Advanced Techniques**: Experienced in joins, subqueries, aggregation, filtering, sorting, window functions, transformation, validation, cleaning, and performance optimization.
 
-Stored Procedures and Functions: Proficient in writing and optimizing stored procedures and user-defined functions.
+**Stored Procedures and Functions**: Proficient in writing and optimizing stored procedures and user-defined functions.
 
-Database Design: Skilled in designing efficient database schemas, including working with views and indexes.
+**Database Design**: Skilled in designing efficient database schemas, including working with views and indexes.
 
 
 
 ### Tableau- 
-Visualization and Analysis: Hands-on experience in data cleaning, visualization, ETL, and dashboard creation using Tableau
+**Visualization and Analysis**: Hands-on experience in data cleaning, visualization, ETL, and dashboard creation using Tableau
 
-Calculated Fields and Parameters:Utilize calculated fields for custom calculations and aggregations.
+**Calculated Fields and Parameters**:Utilize calculated fields for custom calculations and aggregations.
 
-Advanced Analytics:Apply advanced analytical techniques such as trend lines, reference lines, and forecasting
+**Advanced Analytics**:Apply advanced analytical techniques such as trend lines, reference lines, and forecasting
 
 
 ### Excel
-Data Analysis and Visualization: Familiar with various Excel functionalities, including data cleaning, formatting, formulas, charts, pivot tables, and data validation.
+**Data Analysis and Visualization**: Familiar with various Excel functionalities, including data cleaning, formatting, formulas, charts, pivot tables, and data validation.
 
 ### Python
-Data Analysis and Manipulation: Proficient in using pandas,numpy for data manipulation and analysis tasks.
+**Data Analysis and Manipulation**: Proficient in using pandas,numpy for data manipulation and analysis tasks.
 
-Regular Expressions: Experience with data wrangling using regular expressions.
+**Regular Expressions**: Experience with data wrangling using regular expressions.
 
-Matplotlip,Seaborn : For visualization
+**Matplotlip,Seaborn** : For visualization
 
 
 # Projects
