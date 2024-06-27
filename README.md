@@ -20,6 +20,7 @@ I'm experienced digital marketer and SEO specialist with over 3+ years of experi
 
 
 
+
 ### Tableau- 
 **Visualization and Analysis**: Hands-on experience in data cleaning, visualization, ETL, and dashboard creation using Tableau
 
@@ -28,8 +29,10 @@ I'm experienced digital marketer and SEO specialist with over 3+ years of experi
 **Advanced Analytics**:Apply advanced analytical techniques such as trend lines, reference lines, and forecasting
 
 
+
 ### Excel
 **Data Analysis and Visualization**: Familiar with various Excel functionalities, including data cleaning, formatting, formulas, charts, pivot tables, and data validation.
+
 
 ### Python
 **Data Analysis and Manipulation**: Proficient in using pandas,numpy for data manipulation and analysis tasks.
@@ -37,6 +40,7 @@ I'm experienced digital marketer and SEO specialist with over 3+ years of experi
 **Regular Expressions**: Experience with data wrangling using regular expressions.
 
 **Matplotlip,Seaborn** : For visualization
+
 
 
 # Projects
@@ -47,6 +51,7 @@ I'm experienced digital marketer and SEO specialist with over 3+ years of experi
 * Bank Loan Analysis
 
 * SQL Music Store Analysis
+
 
 
 This repository contains a collection of my projects, including personal and professional endeavors. Each project demonstrates my skills and expertise in data analysis, visualization, and database management.
